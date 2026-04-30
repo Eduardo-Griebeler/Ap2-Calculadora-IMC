@@ -22,4 +22,4 @@ A interface foi construída seguindo rigorosamente o protótipo, focando em:
 O vídeo explicativo detalhando o funcionamento do código e a execução da aplicação pode ser acessado no link abaixo:
 https://youtu.be/PFPWccJVbng
 ---
-Desenvolvido por [Seu Nome] para a atividade de Desenvolvimento Mobile.
+Desenvolvido por Eduardo para a atividade de Desenvolvimento Mobile.
